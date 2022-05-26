@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dodamce
 - 👀 I’m interested in The backend development
-- 🌱我目前正在学习 C++/Linux_Centos
+- 🌱我目前正在学习 C++/Linux_Centos/JavaSE/JavaWeb/JavaEE
 - 💞️ I’m looking to collaborate on No
 - 📫 How to reach me 
 3030949391@qq.com
